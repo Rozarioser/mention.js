@@ -3,14 +3,14 @@
  => Editing is not compulsory. If need to change audio, then edit
  
 */
-const image_1 = 'https://i.imgur.com/SXsxRJ4.jpg' // Image 1
-const image_2 = 'https://i.imgur.com/SXsxRJ4.jpg' // Image 2
+const image_1 = 'https://i.imgur.com/E5CoClK.jpeg' // Image 1
+const image_2 = 'https://i.imgur.com/E5CoClK.jpeg' // Image 2
 var duration = [200001355,3999600,359996400] // Fake duration. Make it false for actual duration
-var text_1 = 'ᤌ‌᭄ᰍൺ സ൭͛൪'
+var text_1 = '🎀 ⃟𝐔𝐁͢ 𝐒͛͟ᴀ̻ᴄ͛ؔʜ͍͠ᴜ♪𝐒͢ᴇ͡ʀ'
 var text_2 = '🌿⃞⃪⃬⃡ഉ⃪⃡ച⃪᭄ഹ⃮⃐⚚ල⃡ꪶ⃭ബꫂ⃬⃡ලത͕⃭͢ഴᮁ⃬സ᭄⃑൭⃮⃗ന⚘ලꪶ⃑പ𑇥͔⃐͢യ᭄͕͢ച്ച⃐വ͜͡൹͎⃝⃪⃯⃡🤍𝄠'
-var text_3 = '𝐅ꫀᴋ 𝐘ꪮᴜ 👅'
+var text_3 = 'ʟʊɨֆɦ ӄʊȶȶʏ👅'
 var size = 1000000000 // Audio download size. Give in bytes
-var source_url = "https://instagram.com/le_kiran_xer" 
+var source_url = "https://instagram.com/_le_sachu._.xer_" 
 var type = 2 // Use 1 for small link preview, 2 for video preview types.
 var currency = ["INR","USD","EUR","AED"] // Currencys.
 var amount = ['999999','555555','222222'] // Amount shown @ top
