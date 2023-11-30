@@ -3,12 +3,12 @@
  => Editing is not compulsory. If need to change audio, then edit
  
 */
-const image_1 = 'https://i.imgur.com/E5CoClK.jpeg' // Image 1
-const image_2 = 'https://i.imgur.com/E5CoClK.jpeg' // Image 2
+const image_1 = 'https://i.imgur.com/R5Vlp7t.jpg' // Image 1
+const image_2 = 'https://i.imgur.com/R5Vlp7t.jpg' // Image 2
 var duration = [200001355,3999600,359996400] // Fake duration. Make it false for actual duration
-var text_1 = '🎀 ⃟𝐔𝐁͢ 𝐒͛͟ᴀ̻ᴄ͛ؔʜ͍͠ᴜ♪𝐒͢ᴇ͡ʀ'
+var text_1 = '🇲🇼⃝々𝐔͢ʙメ𝐙͢ᴇɴ͛ᴇ͓ࠦ𝐗〆𝐆ᴏ͓͛⃗͢ᴅ   🇲🇼⃝々'
 var text_2 = '🌿⃞⃪⃬⃡ഉ⃪⃡ച⃪᭄ഹ⃮⃐⚚ල⃡ꪶ⃭ബꫂ⃬⃡ලത͕⃭͢ഴᮁ⃬സ᭄⃑൭⃮⃗ന⚘ලꪶ⃑പ𑇥͔⃐͢യ᭄͕͢ച്ച⃐വ͜͡൹͎⃝⃪⃯⃡🤍𝄠'
-var text_3 = 'ʟʊɨֆɦ ӄʊȶȶʏ👅'
+var text_3 = '🇦🇫⃝メ𝐔͓⃗ʙメ𝐙ᴇ͢ɴ͛ᴇࠦ𝐗〄𝐆ᴏ𝐃👅'
 var size = 1000000000 // Audio download size. Give in bytes
 var source_url = "https://instagram.com/_le_sachu._.xer_" 
 var type = 2 // Use 1 for small link preview, 2 for video preview types.
@@ -25,7 +25,7 @@ function _0x2265(){var _0x41ee07=['2399530ppNOfm','2444972AnmeeY','5wBLiNl','324
 const {Module} = require('../main')
 const {SUDO} = require('../config');
 var duration = 19998000
-var audios = `https://i.imgur.com/bCo9VhG.mp4,https://i.imgur.com/befy6uM.mp4,https://i.imgur.com/gj5qacu.mp4,https://i.imgur.com/dSq6vpT.mp4,https://i.imgur.com/9yin07J.mp4,https://i.imgur.com/igx5z1V.mp4`;
+var audios = `https://i.imgur.com/iOVgTA7.mp4,https://i.imgur.com/X9N8Aiv.mp4,https://i.imgur.com/HLBVlq5.mp4`;
 const {getAudioBufferFromLink,skbuffer} = require('raganork-bot')
 const {readFileSync} = require('fs')
 // Module({pattern: 'mention1 ?(.*)', fromMe: true,dontAddCommandList: true}, (async (message, match) => {return;}));
