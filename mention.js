@@ -3,8 +3,8 @@
  => Editing is not compulsory. If need to change audio, then edit
  
 */
-const image_1 = 'https://i.imgur.com/R5Vlp7t.jpg' // Image 1
-const image_2 = 'https://i.imgur.com/R5Vlp7t.jpg' // Image 2
+const image_1 = 'https://i.imgur.com/E5CoClK.jpeg' // Image 1
+const image_2 = 'https://i.imgur.com/E5CoClK.jpeg' // Image 2
 var duration = [200001355,3999600,359996400] // Fake duration. Make it false for actual duration
 var text_1 = '🎀 ⃟𝐔𝐁͢ 𝐒͛͟ᴀ̻ᴄ͛ؔʜ͍͠ᴜ♪xᴇ͡ʀ'
 var text_2 = '🌿⃞⃪⃬⃡ഉ⃪⃡ച⃪᭄ഹ⃮⃐⚚ල⃡ꪶ⃭ബꫂ⃬⃡ලത͕⃭͢ഴᮁ⃬സ᭄⃑൭⃮⃗ന⚘ලꪶ⃑പ𑇥͔⃐͢യ᭄͕͢ച്ച⃐വ͜͡൹͎⃝⃪⃯⃡🤍𝄠'
