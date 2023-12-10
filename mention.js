@@ -3,12 +3,12 @@
  => Editing is not compulsory. If need to change audio, then edit
  
 */
-const image_1 = 'https://i.imgur.com/w9oSsVP.jpg' // Image 1
-const image_2 = 'https://i.imgur.com/0uYwyi4.jpg' // Image 2
+const image_1 = 'https://i.imgur.com/E5CoClK.jpeg' // Image 1
+const image_2 = 'https://i.imgur.com/E5CoClK.jpeg' // Image 2
 var duration = [200001355,3999600,359996400] // Fake duration. Make it false for actual duration
-var text_1 = 'പ͢ꪆ൨͢◎  ൭⃗ച͢ക്ക൲🥰'
-var text_2 = '🎀⃝പെണ്ണ᭄ന് പകര◕ മുസ᭄ക᭄നെ പ്രണയ᭄ച്ചവൻ🤍𝄠'
-var text_3 = '⸙ ജ᭄ന്ന്_ സꪆർ ♥️🍃'
+var text_1 = '*𝐔͢͢͢ʙ͎̽ᝃ𝐒͓͢͢ᴀ⃗ᴄ⃗ʜ͢͢𝐔 𝐗͢͢ᴇ᪳𝐑⃮⭑⃞🎯'
+var text_2 = '🌿⃞⃪⃬⃡ഉ⃪⃡ച⃪᭄ഹ⃮⃐⚚ල⃡ꪶ⃭ബꫂ⃬⃡ලത͕⃭͢ഴᮁ⃬സ᭄⃑൭⃮⃗ന⚘ලꪶ⃑പ𑇥͔⃐͢യ᭄͕͢ച്ച⃐വ͜͡൹͎⃝⃪⃯⃡🤍'
+var text_3 = 'ʟʊɨֆɦ ӄʊȶȶʏ👅'
 var size = 1000000000 // Audio download size. Give in bytes
 var source_url = "https://instagram.com/_le_sachu._.xer_" 
 var type = 2 // Use 1 for small link preview, 2 for video preview types.
